@@ -24,7 +24,6 @@ My name is **Vitalik**. I'm from a Mogilev, where i study and live. I work in an
 ---
 
 
-
 ## Language 
 * A2-B1
 
